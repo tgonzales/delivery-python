@@ -1,0 +1,1 @@
+Sistema desenvolvido em python para gerenciamento da aldeia da batata
